@@ -155,5 +155,4 @@ Sistema de gestión para una veterinaria y estética canina.
 ### 💻 Code. Learn. Build. Repeat. 🚀
 
 ⭐ Gracias por visitar mi perfil.
-,,,mm
 </p>
